@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+Sat Aug 30 23:30:25 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0148-2789-f43f-00000d192a18 
+on database directory C:\ppm-system\webserver\bin\db-bug with class loader WebappClassLoader
+  context: /open-bug
+  delegate: false
+  repositories:
+    /WEB-INF/classes/
+----------> Parent Classloader:
+org.apache.catalina.loader.StandardClassLoader@3f4a21
+ 
+Loaded from file:/C:/ppm-system/webserver/webapps/open-bug/WEB-INF/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+user.dir=C:\ppm-system\webserver\bin
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

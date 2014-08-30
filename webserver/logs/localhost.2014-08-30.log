@@ -1,0 +1,32 @@
+Aug 30, 2014 11:20:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Aug 30, 2014 11:20:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Set web app root system property: 'ppmbug' = [C:\ppm-system\webserver\webapps\open-bug\]
+Aug 30, 2014 11:20:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing log4j from [C:\ppm-system\webserver\webapps\open-bug\WEB-INF\log4j.properties]
+Aug 30, 2014 11:20:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Aug 30, 2014 11:20:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'springmvc'
+Aug 30, 2014 11:26:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'springmvc'
+Aug 30, 2014 11:26:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Closing Spring root WebApplicationContext
+Aug 30, 2014 11:26:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Shutting down log4j
+Aug 30, 2014 11:30:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Aug 30, 2014 11:30:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Set web app root system property: 'ppmbug' = [C:\ppm-system\webserver\webapps\open-bug\]
+Aug 30, 2014 11:30:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing log4j from [C:\ppm-system\webserver\webapps\open-bug\WEB-INF\log4j.properties]
+Aug 30, 2014 11:30:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+Aug 30, 2014 11:30:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'springmvc'
+Aug 30, 2014 11:38:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'springmvc'
+Aug 30, 2014 11:38:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Closing Spring root WebApplicationContext
+Aug 30, 2014 11:38:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Shutting down log4j
